@@ -1,0 +1,8 @@
+#check the value of 3 numbs (first is smaller than the second, and the second one is smaller or equal with the third numb)
+print("adad aval:")
+a = int(input())
+print("adad dovom:")
+b = int(input())
+print("adad sevom:")
+c = int(input())
+print(a < b <= c)
