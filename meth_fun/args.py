@@ -4,4 +4,5 @@ def sum_numbers(*args):
         res += i
     return res
 
-print(sum_numbers())
+numbers = list(map(int, input().split()))
+print(sum_numbers(*numbers))
