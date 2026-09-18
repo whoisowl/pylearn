@@ -58,6 +58,8 @@ pylearn/
 ├── comparison/       # Comparison and logical operators
 ├── data_types/       # Python data types and related exercises
 ├── statement/        # Conditional statements and control flow
+├── meth_fun/         # Methods and Functions creating 
+├── OOP/              # Object Oriented Programmong And Classes
 ├── README.md
 └── .gitignore
 ```
