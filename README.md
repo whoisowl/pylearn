@@ -60,6 +60,7 @@ pylearn/
 ├── statement/        # Conditional statements and control flow
 ├── meth_fun/         # Methods and Functions creating 
 ├── OOP/              # Object Oriented Programmong And Classes
+├── library_project/  # Packages and Modules, for a library
 ├── README.md
 └── .gitignore
 ```
@@ -74,13 +75,13 @@ pylearn/
 - [x] Variables and data types
 - [x] Conditional statements
 - [x] Loops
-- [ ] Functions
-- [ ] Data structures
+- [x] Functions
+- [x] Data structures
 - [ ] File handling
 - [ ] Exception handling
-- [ ] Modules and packages
-- [ ] Object-Oriented Programming
-- [ ] Virtual environments & `pip`
+- [x] Modules and packages
+- [x] Object-Oriented Programming
+- [x] Virtual environments & `pip`
 - [ ] JSON / APIs
 - [ ] CLI applications
 - [ ] Testing with `pytest`
