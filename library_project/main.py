@@ -1,6 +1,5 @@
 from mylibrary.library import Library
 
-
 if __name__ == "__main__":
     library = Library()
 
